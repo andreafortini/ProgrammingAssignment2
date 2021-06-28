@@ -1,3 +1,7 @@
+﻿# R Programming - Coursera Course
+
+This repository contains the second programming assignment of the Coursera course [R programming](https://www.coursera.org/learn/r-programming). The exercise is described below.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
